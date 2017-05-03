@@ -2,5 +2,6 @@
 
 int main(int argc, char *argv[])
 {
-  return 0;
+	printf("this is a test!\n");
+	return 0;
 }
